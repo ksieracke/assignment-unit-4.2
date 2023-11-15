@@ -1,0 +1,20 @@
+header{
+    background-color: crimson;
+}
+
+.name{
+    background-color: gold;
+    color:black;
+}
+img{
+    display: block;
+    width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    background-color: crimson;
+    text-align: center;
+    color: black;
+}
